@@ -7,6 +7,8 @@ body {
  
 }
 
+
+
 #logo-container img {
     width: 340px;
     height: auto;
@@ -243,9 +245,20 @@ button {
 
 
 /* menu sticky */
+
+/* .sticky-container {
+    background-color: aqua;
+}
+ */
+
+section.sticky-container {
+    background-color: #e74c3c;
+}
+
 .data-sticky {
     width: 100%;
     z-index: 100;
+    
 }
 
 /* menu sticky */
@@ -262,3 +275,8 @@ button {
 }
 
 /* /////offcanvas---menude navegacion para moviles*/
+
+.Miboton {
+    color: white;
+    
+}
